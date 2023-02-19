@@ -8,12 +8,19 @@ format:
     toc: true
 
 website:
+  title: "Martin Skarzynski"
   twitter-card: true
   open-graph: true
   repo-actions: [issue]
   navbar:
     background: primary
     search: true
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
   sidebar:
     style: floating
 
