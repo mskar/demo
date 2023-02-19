@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "demo"
+  site-url: "https://mskar.github.io/demo"
+  description: "demo of quarto and nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/mskar/demo"
