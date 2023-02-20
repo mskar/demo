@@ -1,9 +1,9 @@
 ---
-title: "Post With Code"
+title: "module With Code"
 author: "Harlow Malloc"
 date: "2023-02-19"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+This is a module with executable code.
