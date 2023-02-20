@@ -5,7 +5,6 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
 
 website:
   title: "Martin Skarzynski"
