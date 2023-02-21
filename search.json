@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "modules/post-with-code/index.html",
+    "href": "modules/post-with-code/index.html",
+    "title": "module With Code",
+    "section": "",
+    "text": "This is a module with executable code."
+  },
+  {
+    "objectID": "modules/welcome/index.html",
+    "href": "modules/welcome/index.html",
+    "title": "Welcome To My course",
+    "section": "",
+    "text": "This is the first module in a Quarto blog. Welcome!\n\nSince this module doesn’t specify an explicit image, the first image in the module will be used in the listing page of modules."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Course",
+    "section": "",
+    "text": "module With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nFeb 19, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My course\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nFeb 16, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]
