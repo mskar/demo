@@ -2,7 +2,7 @@ project:
   output-dir: _docs
 
 website:
-  title: "demo"
+  title: "Course demo"
   site-url: "https://mskar.github.io/demo"
   description: "demo of quarto and nbdev"
   repo-branch: main
