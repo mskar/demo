@@ -1,0 +1,15 @@
+website:
+  sidebar:
+    contents:
+      - about.qmd
+      - section: modules
+        contents:
+          - section: module-with-slides
+            contents:
+              - modules/module-with-slides/index.qmd
+          - section: module-with-code
+            contents:
+              - modules/module-with-code/index.qmd
+          - section: welcome
+            contents:
+              - modules/welcome/index.qmd
